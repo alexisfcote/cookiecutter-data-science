@@ -85,3 +85,17 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+/secrets
+
+/models/checkpoints
+venv/
+*.zip
+.env
+
+*.pem
+
+*dask-worker-space*
+
+*catboost_info*
+*gluon_dir*
